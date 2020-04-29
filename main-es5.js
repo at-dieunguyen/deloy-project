@@ -6118,7 +6118,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-header"]],
       decls: 19,
       vars: 2,
-      consts: [[1, "container"], [1, "bg-white", "border-bottom", "shadow-sm"], [1, "header-name"], ["routerLink", "/home", 1, "my-0", "mr-md-auto", "font-weight-normal"], ["src", "../../../../assets/img/log02.png", "width", "200px", "height", "60px", "alt", ""], [1, "header-nav"], [1, "nav-link"], ["routerLink", "/home", 1, "p-2", "text-dark"], ["routerLink", "/women", 1, "p-2", "text-dark"], ["routerLink", "/man", 1, "p-2", "text-dark"], ["routerLink", "/children", 1, "p-2", "text-dark"], ["routerLink", "/dashboard", 1, "p-2", "text-dark"], ["class", "btn btn-outline-primary", "routerLink", "/login", 4, "ngIf"], ["class", "btn btn-outline-primary", 3, "click", 4, "ngIf"], ["routerLink", "/login", 1, "btn", "btn-outline-primary"], [1, "btn", "btn-outline-primary", 3, "click"]],
+      consts: [[1, "container"], [1, "bg-white", "border-bottom", "shadow-sm"], [1, "header-name"], ["routerLink", "/home", 1, "my-0", "mr-md-auto", "font-weight-normal"], ["src", "assets/img/log02.png", "width", "200px", "height", "60px", "alt", ""], [1, "header-nav"], [1, "nav-link"], ["routerLink", "/home", 1, "p-2", "text-dark"], ["routerLink", "/women", 1, "p-2", "text-dark"], ["routerLink", "/man", 1, "p-2", "text-dark"], ["routerLink", "/children", 1, "p-2", "text-dark"], ["routerLink", "/dashboard", 1, "p-2", "text-dark"], ["class", "btn btn-outline-primary", "routerLink", "/login", 4, "ngIf"], ["class", "btn btn-outline-primary", 3, "click", 4, "ngIf"], ["routerLink", "/login", 1, "btn", "btn-outline-primary"], [1, "btn", "btn-outline-primary", 3, "click"]],
       template: function HeaderComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -6273,7 +6273,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-sidebar"]],
       decls: 22,
       vars: 0,
-      consts: [["src", "../../../../assets/img/slide3.jpg", "alt", "first slide", 2, "display", "block", "width", "100%"], [1, "carousel-caption", "d-none", "d-md-block"], ["src", "../../../../assets/img/slide4.jpg", "alt", "second slide", 2, "display", "block", "width", "100%"], ["src", "../../../../assets/img/slide7.jpg", "alt", "third slide", 2, "display", "block", "width", "100%"]],
+      consts: [["src", "assets/img/slide3.jpg", "alt", "first slide", 2, "display", "block", "width", "100%"], [1, "carousel-caption", "d-none", "d-md-block"], ["src", "assets/img/slide4.jpg", "alt", "second slide", 2, "display", "block", "width", "100%"], ["src", "assets/img/slide7.jpg", "alt", "third slide", 2, "display", "block", "width", "100%"]],
       template: function SidebarComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "carousel");
